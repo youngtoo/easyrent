@@ -7,3 +7,7 @@ Some of the functions include:
 - Finding rental appartments.
 - Payments
 
+
+### Developer
+You can visit the developer [ian too](https://iantoo.co.ke)
+
